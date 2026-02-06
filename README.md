@@ -12,8 +12,8 @@
 
 ## 👤 Project Author
 
-**Name:** Your Name  
-**Role:** Intern / Full Stack Developer  
+**Name:** Kathirvel S  
+**Role:** Full Stack Developer  
 **Date:** February 6, 2026  
 **Status:** ✅ **COMPLETE & PRODUCTION READY**  
 
